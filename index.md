@@ -149,6 +149,7 @@
 - [[wiki/sources/lecture-notes-ch4|Chapter 4 - Poisson Processes]] - Poisson process definitions, properties, conditional arrival laws, queueing examples, and PASTA.
 - [[wiki/sources/lecture-notes-ch5|Chapter 5 - Renewal Phenomena]] - renewal theory, renewal equations, renewal reward, regenerative processes, and semi-Markov processes.
 - [[wiki/sources/lecture-notes-ch6|Chapter 6 - Analysis of the GoBackN Protocol]] - GoBackN semi-Markov reward and transform analysis.
+- [[wiki/sources/how-to-stochastic-processes|How To Stochastic Processes]] - practical exam-preparation source covering Markov-chain, Poisson, GoBackN, and renewal exercise templates.
 
 ---
 
@@ -159,6 +160,7 @@
 - [[wiki/exercises/binomial-poisson-thinning|Binomial Thinning of a Poisson Count]] - Poisson count filtered by independent Bernoulli sampling.
 - [[wiki/exercises/circular-disk-poisson-limit|Circular Disk Poisson Limit]] - spatial binomial-to-Poisson limit for uniform points in a disk.
 - [[wiki/exercises/dispatching-system|Dispatching System]] - optimal fixed dispatch period balancing waiting and dispatch costs.
+- [[wiki/exercises/exam-frequency-analysis-2021-2024|Exam Frequency Analysis 2021-2024]] - recurring exercise and proof templates from the 2021-2024 exam files, with dates, frequencies, and full prompt texts.
 - [[wiki/exercises/excess-life-triangular-lifetime|Excess Life for a Triangular Lifetime]] - limiting excess-life tail and mean for triangular lifetimes.
 - [[wiki/exercises/excess-life-uniform-lifetimes|Excess Life for Uniform Lifetimes]] - limiting excess-life distribution for uniform renewal intervals.
 - [[wiki/exercises/failure-wald-like-identity|Failure of Wald-like Identity for S_N(t)]] - counterexample showing dependence between $N(t)$ and renewal intervals.
@@ -170,6 +172,8 @@
 - [[wiki/exercises/gambler-ruin|Gambler's Ruin]] - absorbing random-walk ruin probability.
 - [[wiki/exercises/geometric-sum-exponentials|Geometric Sum of Exponentials]] - geometric mixture of gamma sums is exponential.
 - [[wiki/exercises/gobackn-transform-throughput|GoBackN Transform Throughput]] - use $\psi(s_1,s_2)$ to recover reward/time throughput.
+- [[wiki/exercises/how-to-stochastic-processes-complete-en|How To Stochastic Processes - Complete Notes]] - English translation of the complete exam-method note with steps, explanations, and theorem references.
+- [[wiki/exercises/how-to-stochastic-processes-enriched|How To Stochastic Processes - Appunto Completo]] - fused Italian exam-method note combining original steps, explanations, and theorem references.
 - [[wiki/exercises/infinite-delay-line-chain|Infinite Delay-Line Chain]] - positive recurrence iff the jump distribution has finite mean.
 - [[wiki/exercises/last-toss-coins-absorption|Last Toss Coins Absorption]] - absorbing-chain probability that the final toss has one coin.
 - [[wiki/exercises/layer-2-protocol-throughput|Layer 2 Protocol Throughput]] - retransmission success probability, mean attempts, and throughput.

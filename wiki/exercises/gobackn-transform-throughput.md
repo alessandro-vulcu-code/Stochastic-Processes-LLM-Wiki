@@ -4,7 +4,7 @@ tags: [exercise, gobackn, transforms]
 sources: [lecture-notes-ch6]
 related: [gobackn-protocol, transition-generating-matrix]
 ---
-
+e
 # GoBackN Transform Throughput
 
 ## Problem

@@ -64,3 +64,18 @@ Promoted remaining clearly marked Ch2, Ch3, and Ch5 exercises into individual ex
 
 ## [2026-05-10] lint | Cross-check raw vs wiki — gap closure round 2
 User added missing concepts in session. Agent then created 5 additional concept pages (accessible-state, recurrent-class, shot-noise-process, counting-process, improper-random-variable) and 4 theorem pages (lemma-monotonicity-survival-probabilities, lemma-maximal-bounded-solution, lemma-recurrence-criterion-state-0, two-processes-conditional-distribution). Pre-existing pages confirmed present: levy-inversion-formula, finiteness-renewal-function, solution-renewal-equation, factorial-moment-formula-pgf, stationary-distribution-positive-recurrent-aperiodic. Updated index.md. Current wiki totals: ~65 concept pages, ~45 theorem pages, 44 exercise pages, 6 source pages, 6 topic pages, and overview.md.
+
+## [2026-05-13] maintenance | Exam frequency analysis 2021-2024
+Cross-checked raw exam files from 2021-2024, merged duplicate scans/files, and created [[wiki/exercises/exam-frequency-analysis-2021-2024]] with recurring exercise/proof families, frequencies, dates, and full prompt texts.
+
+## [2026-05-14] ingest | How To Stochastic Processes
+Created [[wiki/sources/how-to-stochastic-processes]] and [[wiki/exercises/how-to-stochastic-processes-enriched]] from the raw How To source, adding concise Italian explanations, theorem references, and correction notes for ambiguous exercise steps.
+
+## [2026-05-14] maintenance | Reworked How To as annotated original
+Rewrote [[wiki/exercises/how-to-stochastic-processes-enriched]] so it preserves the original transcription flow and inserts Italian explanation callouts directly beside the original steps.
+
+## [2026-05-14] maintenance | Fused How To into complete study note
+Reworked [[wiki/exercises/how-to-stochastic-processes-enriched]] again as a single coherent Italian study note, merging the original exercise steps with explanations instead of using separate callouts.
+
+## [2026-05-14] maintenance | English How To translation
+Created [[wiki/exercises/how-to-stochastic-processes-complete-en]], an English translation of the fused How To study note with the same explanations, formulas, and theorem references.

@@ -65,17 +65,20 @@ Promoted remaining clearly marked Ch2, Ch3, and Ch5 exercises into individual ex
 ## [2026-05-10] lint | Cross-check raw vs wiki — gap closure round 2
 User added missing concepts in session. Agent then created 5 additional concept pages (accessible-state, recurrent-class, shot-noise-process, counting-process, improper-random-variable) and 4 theorem pages (lemma-monotonicity-survival-probabilities, lemma-maximal-bounded-solution, lemma-recurrence-criterion-state-0, two-processes-conditional-distribution). Pre-existing pages confirmed present: levy-inversion-formula, finiteness-renewal-function, solution-renewal-equation, factorial-moment-formula-pgf, stationary-distribution-positive-recurrent-aperiodic. Updated index.md. Current wiki totals: ~65 concept pages, ~45 theorem pages, 44 exercise pages, 6 source pages, 6 topic pages, and overview.md.
 
-## [2026-05-13] maintenance | Exam frequency analysis 2021-2024
-Cross-checked raw exam files from 2021-2024, merged duplicate scans/files, and created [[wiki/exercises/exam-frequency-analysis-2021-2024]] with recurring exercise/proof families, frequencies, dates, and full prompt texts.
+## [2026-05-23] ingest | Exams Theorems
+Created [[wiki/sources/exams-theorems]] and [[wiki/exercises/exam-theorem-proofs]] from raw/Exams_theorems.md. The new exercise page gives theorem statements and complete English proofs for the twelve likely exam prompts.
 
-## [2026-05-14] ingest | How To Stochastic Processes
-Created [[wiki/sources/how-to-stochastic-processes]] and [[wiki/exercises/how-to-stochastic-processes-enriched]] from the raw How To source, adding concise Italian explanations, theorem references, and correction notes for ambiguous exercise steps.
+## [2026-05-23] maintenance | Corrected exam proof document
+Cross-checked [[wiki/exercises/exam-theorem-proofs]] against wiki theorem pages. Issues found: notation conflict (Theorem 8 used $S_n,T_n$ clashing with renewal preamble), missing citations to [[theorems/finiteness-renewal-function]] in Theorems 4 and 10, Chapman-Kolmogorov restricted to one-step form, period-2 remark in Theorem 9 unexplained. Created corrected version [[wiki/exercises/exam-theorem-proofs-v2]] with all fixes applied.
 
-## [2026-05-14] maintenance | Reworked How To as annotated original
-Rewrote [[wiki/exercises/how-to-stochastic-processes-enriched]] so it preserves the original transcription flow and inserts Italian explanation callouts directly beside the original steps.
+## [2026-05-23] query | Review exam theorem proofs v2
+Checked [[wiki/exercises/exam-theorem-proofs-v2]] for mathematical correctness, coherence, wiki links, and frontmatter validity.
 
-## [2026-05-14] maintenance | Fused How To into complete study note
-Reworked [[wiki/exercises/how-to-stochastic-processes-enriched]] again as a single coherent Italian study note, merging the original exercise steps with explanations instead of using separate callouts.
+## [2026-05-23] query | Review original exam theorem proofs
+Checked [[wiki/exercises/exam-theorem-proofs]] against the corrected v2 version and relevant wiki theorem pages.
 
-## [2026-05-14] maintenance | English How To translation
-Created [[wiki/exercises/how-to-stochastic-processes-complete-en]], an English translation of the fused How To study note with the same explanations, formulas, and theorem references.
+## [2026-05-23] query | Suggested fixes for exam theorem proofs v2
+Identified priority edits for [[wiki/exercises/exam-theorem-proofs-v2]] without changing the exercise page.
+
+## [2026-05-23] maintenance | Fixed exam theorem proofs v2
+Updated [[wiki/exercises/exam-theorem-proofs-v2]] with YAML-valid related metadata, atom-safe renewal integrals, strong Markov justification for Poisson interarrivals, and a truncated-chain derivation for the reflected random walk transient case. Updated [[wiki/sources/exams-theorems]] and [[index]].

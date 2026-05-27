@@ -82,3 +82,12 @@ Identified priority edits for [[wiki/exercises/exam-theorem-proofs-v2]] without 
 
 ## [2026-05-23] maintenance | Fixed exam theorem proofs v2
 Updated [[wiki/exercises/exam-theorem-proofs-v2]] with YAML-valid related metadata, atom-safe renewal integrals, strong Markov justification for Poisson interarrivals, and a truncated-chain derivation for the reflected random walk transient case. Updated [[wiki/sources/exams-theorems]] and [[index]].
+
+## [2026-05-27] query | GoBackN throughput and three-state absorbing chain
+Answered an exam-style query on GoBackN throughput over a two-state Markov channel and standard classification/limit quantities for a three-state Markov chain.
+
+## [2026-05-27] query | GoBackN Markov channel exam exercise
+Solved E1 on direct and GoBackN throughput for a two-state Markov channel with mean good run 100, mean bad run 100/9, round-trip time 2, and iid feedback error probability 0.1.
+
+## [2026-05-27] query | GoBackN feedback-error transitions
+Explained how iid feedback errors modify the sampled semi-Markov transitions for part (c) of the GoBackN exam exercise.

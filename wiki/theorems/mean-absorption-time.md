@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, markov-chains]
-sources: [lecture-notes-ch2]
+sources: [lecture-notes-ch2, stochastic-exercises-guida-semplice]
 related: [fundamental-matrix, absorbing-markov-chain]
 ---
 
@@ -35,4 +35,4 @@ Avoids solving one first-step system by hand for each starting state.
 ## Sources
 
 - [[sources/lecture-notes-ch2]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

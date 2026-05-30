@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, poisson-process, conditional]
-sources: [lecture-notes-ch4]
+sources: [lecture-notes-ch4, stochastic-exercises-guida-semplice]
 related: [[poisson-process]], [[thinning-theorem]], [[binomial-conditional-distribution]]
 ---
 
@@ -48,3 +48,4 @@ Given $n$ total arrivals from two independent streams, each arrival is independe
 ## Sources
 
 - [[sources/lecture-notes-ch4]] — §4.5, Theorem 4.5.5 and Corollary 4.5.1.
+- [[sources/stochastic-exercises-guida-semplice]] - two-Poisson-process conditioning case taxonomy.

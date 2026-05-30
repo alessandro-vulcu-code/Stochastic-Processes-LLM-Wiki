@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, markov-chains, recurrence]
-sources: [lecture-notes-ch3]
+sources: [lecture-notes-ch3, stochastic-exercises-guida-semplice]
 related: [[concepts/communicating-classes]], [[concepts/recurrence]], [[concepts/positive-recurrent]], [[concepts/null-recurrent]]
 ---
 
@@ -50,3 +50,4 @@ This page ties together [[concepts/irreducible|Irreducible]], [[concepts/aperiod
 ## Sources
 
 - [[sources/lecture-notes-ch3]] - summary tables and examples.
+- [[sources/stochastic-exercises-guida-semplice]] - diagram-first classification of closed recurrent classes, periodic classes, and transient states.

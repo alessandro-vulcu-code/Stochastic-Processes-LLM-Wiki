@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, gobackn, semi-markov-processes]
-sources: [lecture-notes-ch6]
+sources: [lecture-notes-ch6, stochastic-exercises-guida-semplice]
 related: [semi-markov-process, renewal-reward-process, transition-generating-matrix]
 ---
 
@@ -51,4 +51,4 @@ The physical channel has one state per slot, but the protocol only sees throughp
 ## Sources
 
 - [[sources/lecture-notes-ch6]] - full protocol modeling chapter.
-
+- [[sources/stochastic-exercises-guida-semplice]] - exam-method formulas for two-state Markov channels, $C^m$, and feedback-error variants.

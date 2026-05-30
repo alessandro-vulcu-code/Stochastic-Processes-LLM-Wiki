@@ -182,6 +182,9 @@
   },
   "active": "4cb87008b5b79e29",
   "lastOpenFiles": [
+    "wiki/exercises/stochastic-exercises-guida-semplice.md",
+    "wiki/sources/stochastic-exercises-guida-semplice.md",
+    "raw/Stochastic_exercises_guida_semplice.pdf",
     "wiki/exercises/exam-theorem-proofs.md",
     "wiki/exercises/exam-theorem-proofs-v2.md",
     "raw/Exams_theorems.md",
@@ -205,7 +208,6 @@
     "raw/Exams/2023/3 july 2023.pdf",
     "raw/Exams/2023/3 july 2023.jpg",
     "raw/Exams/2022/June 24, 2022.pdf",
-    "raw/Exams/2021/June 22, 2021 Cyber.pdf",
     "raw/Exams/2021/22 june 2021.jpg",
     "wiki/sources/exams-theorems.md",
     "wiki/topics/gobackn-protocol.md",
@@ -223,8 +225,6 @@
     "wiki/exercises/excess-life-triangular-lifetime.md",
     "wiki/exercises/sojourns-long-run-state1.md",
     "wiki/exercises/failure-wald-like-identity.md",
-    "wiki/exercises/m-g-1-classification.md",
-    "wiki/exercises/g-m-1-positive-recurrence.md",
     "raw/images/Stochastic_Processes_2020_p9_img2.jpeg",
     "raw/images/Stochastic_Processes_2020_p9_img1.jpeg",
     "raw/images/Stochastic_Processes_2020_p98_img27.jpeg"

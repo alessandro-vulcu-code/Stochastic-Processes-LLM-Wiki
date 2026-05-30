@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, probability]
-sources: [lecture-notes-ch1]
+sources: [lecture-notes-ch1, stochastic-exercises-guida-semplice]
 related: [random-variable, first-step-analysis]
 ---
 
@@ -57,4 +57,4 @@ Conditioning breaks a hard probability into easier cases, then averages over tho
 ## Sources
 
 - [[sources/lecture-notes-ch1]] - conditional CDF/PDF and iterated expectation.
-
+- [[sources/stochastic-exercises-guida-semplice]] - exam patterns for Markov path conditioning and Poisson interval conditioning.

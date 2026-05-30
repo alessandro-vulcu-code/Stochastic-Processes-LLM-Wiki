@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, markov-chains]
-sources: [lecture-notes-ch2]
+sources: [lecture-notes-ch2, stochastic-exercises-guida-semplice]
 related: [fundamental-matrix, absorbing-markov-chain]
 ---
 
@@ -37,4 +37,4 @@ The same matrix computes mean absorption times and absorption probabilities.
 ## Sources
 
 - [[sources/lecture-notes-ch2]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

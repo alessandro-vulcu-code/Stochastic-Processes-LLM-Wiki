@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [markov-chains, discrete-time]
-sources: [lecture-notes-ch2]
+sources: [lecture-notes-ch2, stochastic-exercises-guida-semplice]
 ---
 
 # Markov Chains
@@ -48,6 +48,8 @@ Discrete-time Markov chains model systems whose future depends on the past only 
 10. [[exercises/markov-chain-joint-conditional-probabilities]]
 11. [[exercises/three-state-absorbing-chain]]
 12. [[exercises/gambler-ruin]]
+13. [[sources/stochastic-exercises-guida-semplice]]
+14. [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Problems / Active Research
 

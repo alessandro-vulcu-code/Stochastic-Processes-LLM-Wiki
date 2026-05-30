@@ -1,12 +1,12 @@
 ---
 type: overview
 tags: [stochastic-processes]
-sources: [lecture-notes-ch1, lecture-notes-ch2, lecture-notes-ch3, lecture-notes-ch4, lecture-notes-ch5, lecture-notes-ch6]
+sources: [lecture-notes-ch1, lecture-notes-ch2, lecture-notes-ch3, lecture-notes-ch4, lecture-notes-ch5, lecture-notes-ch6, stochastic-exercises-guida-semplice]
 ---
 
 # Stochastic Processes Overview
 
-This wiki currently synthesizes six lecture-note chapters: a probability review, discrete-time Markov chains, long-run Markov-chain behaviour, Poisson processes, renewal theory, and an applied GoBackN protocol analysis.
+This wiki currently synthesizes six lecture-note chapters: a probability review, discrete-time Markov chains, long-run Markov-chain behaviour, Poisson processes, renewal theory, and an applied GoBackN protocol analysis. It also includes exam-method sources that turn those results into repeatable exercise workflows.
 
 The course builds from random variables and transforms toward processes whose long-run behaviour can be described by regeneration. The central pattern is: identify a state or event at which the future statistically restarts, compute a one-cycle quantity, then convert that cycle-level description into long-run probabilities, rates, or rewards.
 
@@ -20,6 +20,7 @@ The course builds from random variables and transforms toward processes whose lo
 6. [[concepts/renewal-process|Renewal Process]] generalizes the Poisson process by replacing exponential inter-arrivals with positive i.i.d. lifetimes, leading to [[concepts/sampling-paradox|Sampling Paradox]], [[concepts/renewal-equation|Renewal Equation]], and delayed/alternating variants.
 7. [[concepts/renewal-reward-process|Renewal Reward Process]], [[concepts/regenerative-process|Regenerative Process]], and [[concepts/semi-markov-process|Semi-Markov Process]] turn recurrence and regeneration into rate formulas.
 8. [[concepts/gobackn-protocol|GoBackN Protocol]] applies this machinery to network throughput under Markov and i.i.d. error models.
+9. [[exercises/stochastic-exercises-guida-semplice|Stochastic Exercises Guida Semplice]] condenses common exam templates across GoBackN, renewal cycles, M/G/infinity queues, finite Markov chains, and Poisson conditioning.
 
 ## Unifying Equations
 
@@ -46,3 +47,4 @@ The course builds from random variables and transforms toward processes whose lo
 - [[sources/lecture-notes-ch4]]
 - [[sources/lecture-notes-ch5]]
 - [[sources/lecture-notes-ch6]]
+- [[sources/stochastic-exercises-guida-semplice]]

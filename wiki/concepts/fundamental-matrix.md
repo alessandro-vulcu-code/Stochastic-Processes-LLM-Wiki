@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, markov-chains]
-sources: [lecture-notes-ch2]
+sources: [lecture-notes-ch2, stochastic-exercises-guida-semplice]
 related: [absorbing-markov-chain, first-step-analysis]
 ---
 
@@ -49,4 +49,4 @@ No current gaps.
 ## Sources
 
 - [[sources/lecture-notes-ch2]] - definition, derivation, and applications.
-
+- [[sources/stochastic-exercises-guida-semplice]] - exam-use pattern for visit counts $V_{ij}$ and absorption-time row sums.

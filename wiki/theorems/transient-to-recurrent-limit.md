@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, markov-chains, recurrence]
-sources: [lecture-notes-ch3]
+sources: [lecture-notes-ch3, stochastic-exercises-guida-semplice]
 related: [absorbing-markov-chain, recurrence]
 ---
 
@@ -37,4 +37,4 @@ Reducible-chain limits can be computed by absorption probabilities and recurrent
 ## Sources
 
 - [[sources/lecture-notes-ch3]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, poisson-process, continuous-time]
-sources: [lecture-notes-ch2, lecture-notes-ch4, lecture-notes-ch5]
+sources: [lecture-notes-ch2, lecture-notes-ch4, lecture-notes-ch5, stochastic-exercises-guida-semplice]
 related: [poisson-distribution, exponential-distribution, renewal-process, pasta]
 ---
 
@@ -63,4 +63,4 @@ No current gaps.
 - [[sources/lecture-notes-ch4]] - main development.
 - [[sources/lecture-notes-ch2]] - early queueing appearance.
 - [[sources/lecture-notes-ch5]] - Poisson as a renewal process.
-
+- [[sources/stochastic-exercises-guida-semplice]] - conditional-count and independent-increment exercise templates.

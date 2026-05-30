@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, renewal-process, regenerative-processes]
-sources: [lecture-notes-ch5, lecture-notes-ch6]
+sources: [lecture-notes-ch5, lecture-notes-ch6, stochastic-exercises-guida-semplice]
 related: [renewal-process, regenerative-process, gobackn-protocol]
 ---
 
@@ -55,4 +55,4 @@ No current gaps.
 
 - [[sources/lecture-notes-ch5]] - theorem and regenerative use.
 - [[sources/lecture-notes-ch6]] - throughput application.
-
+- [[sources/stochastic-exercises-guida-semplice]] - attack/recovery and availability examples using cycle reward ratios.

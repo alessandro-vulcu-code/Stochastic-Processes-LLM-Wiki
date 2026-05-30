@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [gobackn, semi-markov-processes, renewal-reward]
-sources: [lecture-notes-ch6]
+sources: [lecture-notes-ch6, stochastic-exercises-guida-semplice]
 ---
 
 # GoBackN Protocol Analysis
@@ -29,8 +29,9 @@ GoBackN is analyzed as a semi-Markov reward process. The protocol skips slots af
 3. [[theorems/gobackn-throughput-markov-errors]]
 4. [[concepts/transition-generating-matrix]]
 5. [[exercises/gobackn-transform-throughput]]
+6. [[sources/stochastic-exercises-guida-semplice]]
+7. [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Problems / Active Research
 
 > [!todo] Gap - Reconstruct OCR-damaged transition matrices into clean LaTeX if this protocol becomes exam-critical.
-

@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, markov-chains, ergodic-theory]
-sources: [lecture-notes-ch3]
+sources: [lecture-notes-ch3, stochastic-exercises-guida-semplice]
 related: [[concepts/stationary-distribution]], [[concepts/n-step-transition-probability]], [[concepts/aperiodic]]
 ---
 
@@ -49,3 +49,4 @@ It is related but not identical to [[concepts/stationary-distribution|Stationary
 ## Sources
 
 - [[sources/lecture-notes-ch3]] - limiting probabilities and stationarity.
+- [[sources/stochastic-exercises-guida-semplice]] - examples distinguishing ordinary limits from Cesaro averages in reducible chains.

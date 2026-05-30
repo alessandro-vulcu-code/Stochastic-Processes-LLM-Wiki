@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, markov-chains]
-sources: [lecture-notes-ch2, lecture-notes-ch3]
+sources: [lecture-notes-ch2, lecture-notes-ch3, stochastic-exercises-guida-semplice]
 related: [first-step-analysis, fundamental-matrix]
 ---
 
@@ -43,6 +43,7 @@ The chain wanders among transient states until it falls into a terminal class.
 
 - [[gambler-ruin]]
 - [[last-toss-coins-absorption]]
+- [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Questions / Gaps
 
@@ -52,4 +53,4 @@ No current gaps.
 
 - [[sources/lecture-notes-ch2]] - absorbing-chain block form and formulas.
 - [[sources/lecture-notes-ch3]] - absorption into recurrent classes.
-
+- [[sources/stochastic-exercises-guida-semplice]] - worked three-state absorbing chain with expected visits and mean absorption time.

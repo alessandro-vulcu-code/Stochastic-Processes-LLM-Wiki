@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, markov-chains]
-sources: [lecture-notes-ch2]
+sources: [lecture-notes-ch2, stochastic-exercises-guida-semplice]
 related: [first-passage-time, first-step-analysis]
 ---
 
@@ -36,4 +36,4 @@ Mean hitting times can be computed by solving linear equations.
 ## Sources
 
 - [[sources/lecture-notes-ch2]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

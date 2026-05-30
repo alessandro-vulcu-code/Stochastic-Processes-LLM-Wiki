@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, poisson-process]
-sources: [lecture-notes-ch4]
+sources: [lecture-notes-ch4, stochastic-exercises-guida-semplice]
 related: [poisson-process]
 ---
 
@@ -36,4 +36,4 @@ Gives a simple conditional distribution for arrivals in subintervals.
 ## Sources
 
 - [[sources/lecture-notes-ch4]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

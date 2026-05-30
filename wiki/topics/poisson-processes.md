@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [poisson-process, continuous-time, queueing]
-sources: [lecture-notes-ch4]
+sources: [lecture-notes-ch4, stochastic-exercises-guida-semplice]
 ---
 
 # Poisson Processes
@@ -45,6 +45,8 @@ Poisson processes are continuous-time counting processes with independent statio
 7. [[concepts/pasta]]
 8. [[exercises/two-independent-poisson-processes]]
 9. [[exercises/dispatching-system]]
+10. [[sources/stochastic-exercises-guida-semplice]]
+11. [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Problems / Active Research
 

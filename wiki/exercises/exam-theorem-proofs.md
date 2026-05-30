@@ -2,7 +2,7 @@
 type: exercise
 tags: [exercise, exam-prep, markov-chains, poisson-process, renewal-process]
 sources: [exams-theorems, lecture-notes-ch3, lecture-notes-ch4, lecture-notes-ch5]
-related: [[theorems/finite-state-positive-recurrence]], [[theorems/chapman-kolmogorov]], [[theorems/elementary-renewal-theorem]], [[theorems/period-class-property]], [[theorems/binomial-conditional-distribution]], [[theorems/poisson-interarrival-exponential]]
+related: [[theorems/finite-state-positive-recurrence]],[[theorems/chapman-kolmogorov]], [[theorems/elementary-renewal-theorem]], [[theorems/period-class-property]], [[theorems/binomial-conditional-distribution]], [[theorems/poisson-interarrival-exponential]]
 ---
 
 # Exam Theorem Proofs

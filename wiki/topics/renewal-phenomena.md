@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [renewal-process, regenerative-processes, semi-markov-processes]
-sources: [lecture-notes-ch5]
+sources: [lecture-notes-ch5, stochastic-exercises-guida-semplice]
 ---
 
 # Renewal Phenomena
@@ -49,6 +49,8 @@ Renewal theory studies processes that statistically restart at event times. It g
 11. [[concepts/semi-markov-process]]
 12. [[exercises/failure-wald-like-identity]]
 13. [[exercises/excess-life-triangular-lifetime]]
+14. [[sources/stochastic-exercises-guida-semplice]]
+15. [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Problems / Active Research
 

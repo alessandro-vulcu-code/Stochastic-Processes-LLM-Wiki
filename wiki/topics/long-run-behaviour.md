@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [markov-chains, recurrence, ergodic-theory]
-sources: [lecture-notes-ch3, lecture-notes-ch5]
+sources: [lecture-notes-ch3, lecture-notes-ch5, stochastic-exercises-guida-semplice]
 ---
 
 # Long Run Behaviour of Markov Chains
@@ -52,6 +52,8 @@ This topic classifies Markov-chain states and classes according to accessibility
 12. [[sources/lecture-notes-ch5]] for the renewal-theoretic proof.
 13. [[exercises/g-m-1-positive-recurrence]]
 14. [[exercises/m-g-1-classification]]
+15. [[sources/stochastic-exercises-guida-semplice]]
+16. [[exercises/stochastic-exercises-guida-semplice]]
 
 ## Open Problems / Active Research
 

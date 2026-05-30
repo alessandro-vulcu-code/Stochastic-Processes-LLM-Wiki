@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, gobackn, semi-markov-processes]
-sources: [lecture-notes-ch6]
+sources: [lecture-notes-ch6, stochastic-exercises-guida-semplice]
 related: [gobackn-protocol, renewal-reward-process]
 ---
 
@@ -47,4 +47,4 @@ Round-trip delay penalizes errors by consuming $m$ slots per failed throughput o
 ## Sources
 
 - [[sources/lecture-notes-ch6]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

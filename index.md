@@ -150,6 +150,7 @@
 - [[wiki/sources/lecture-notes-ch5|Chapter 5 - Renewal Phenomena]] - renewal theory, renewal equations, renewal reward, regenerative processes, and semi-Markov processes.
 - [[wiki/sources/lecture-notes-ch6|Chapter 6 - Analysis of the GoBackN Protocol]] - GoBackN semi-Markov reward and transform analysis.
 - [[wiki/sources/how-to-stochastic-processes|How To Stochastic Processes]] - practical exam-preparation source covering Markov-chain, Poisson, GoBackN, and renewal exercise templates.
+- [[wiki/sources/stochastic-exercises-guida-semplice|Stochastic Exercises - Guida Semplice]] - annotated AA 2024/2025 exam-method PDF covering GoBackN, renewal cycles, M/G/infinity counts, reducible Markov chains, absorption, and Poisson conditioning.
 
 ---
 
@@ -192,6 +193,7 @@
 - [[wiki/exercises/shock-survival|Shock Survival]] - survival probability from Poisson thinning of fatal shocks.
 - [[wiki/exercises/shot-noise-process-moments|Shot Noise Process Moments]] - mean and variance of Poisson random-sum pulses.
 - [[wiki/exercises/sojourns-long-run-state1|Sojourns and Long-Run Fraction in State 1]] - renewal analysis of a Markov-chain regenerative state.
+- [[wiki/exercises/stochastic-exercises-guida-semplice|Stochastic Exercises Guida Semplice - Exam Method Sheet]] - reusable formulas and workflows extracted from the annotated exercise-guide PDF.
 - [[wiki/exercises/store-arrivals-poisson-increments|Store Arrivals via Independent Increments]] - joint Poisson counts by interval decomposition.
 - [[wiki/exercises/store-empty-end-hour|Store Empty at End of Hour]] - M/G/infinity-style conditional-uniform departure probability.
 - [[wiki/exercises/three-state-absorbing-chain|Three-State Absorbing Chain]] - scalar first-step equations for absorption probability and time.

@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [stochastic-processes, poisson-process, queueing]
-sources: [lecture-notes-ch4]
+sources: [lecture-notes-ch4, stochastic-exercises-guida-semplice]
 related: [[concepts/poisson-process]], [[concepts/m-g-1-queue]], [[concepts/poisson-distribution]]
 ---
 
@@ -46,3 +46,4 @@ This is an applied use of [[theorems/conditional-arrival-times-uniform|Condition
 ## Sources
 
 - [[sources/lecture-notes-ch4]] - M/G/infinity queue and radioactive-particle example.
+- [[sources/stochastic-exercises-guida-semplice]] - exam templates for active calls/requests with exponential and uniform lifetimes.

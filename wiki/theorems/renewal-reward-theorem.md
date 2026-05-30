@@ -1,7 +1,7 @@
 ---
 type: theorem
 tags: [theorem, renewal-process, regenerative-processes]
-sources: [lecture-notes-ch5]
+sources: [lecture-notes-ch5, stochastic-exercises-guida-semplice]
 related: [renewal-reward-process]
 ---
 
@@ -45,4 +45,4 @@ Converts regenerative models, alternating systems, reliability systems, and prot
 ## Sources
 
 - [[sources/lecture-notes-ch5]]
-
+- [[sources/stochastic-exercises-guida-semplice]]

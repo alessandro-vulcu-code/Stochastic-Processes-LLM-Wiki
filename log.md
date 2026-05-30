@@ -91,3 +91,69 @@ Solved E1 on direct and GoBackN throughput for a two-state Markov channel with m
 
 ## [2026-05-27] query | GoBackN feedback-error transitions
 Explained how iid feedback errors modify the sampled semi-Markov transitions for part (c) of the GoBackN exam exercise.
+
+## [2026-05-27] ingest | Stochastic Exercises - Guida Semplice
+Created [[wiki/sources/stochastic-exercises-guida-semplice]] and [[wiki/exercises/stochastic-exercises-guida-semplice]] from raw/Stochastic_exercises_guida_semplice.pdf. Updated touched concept, theorem, topic, overview, and index pages with exam-method links for GoBackN, renewal cycles, M/G/infinity queues, finite Markov chains, absorption, and Poisson conditioning.
+
+## [2026-05-27] query | Three-state absorbing Markov chain
+Solved E2 on finite-time distributions, limiting expected visits, and mean absorption time for a three-state Markov chain with absorbing state 2.
+
+## [2026-05-27] query | Explain finite-time distributions for E2
+Explained point (a) of the three-state absorbing Markov-chain exercise, focusing on row-vector propagation and path interpretation after drawing the transition diagram.
+
+## [2026-05-27] query | Initial distribution in E2
+Clarified why $X_0=0$ corresponds to initial distribution $\mu_0=(1,0,0)$.
+
+## [2026-05-27] query | Row-by-column multiplication in E2
+Showed explicit row-vector times transition-matrix products for $\mu_1=\mu_0P$ and $\mu_2=\mu_1P$.
+
+## [2026-05-27] query | Formula for $X_n$ distribution in E2
+Gave the general formula $\mu_n=\mu_0P^n$ and the closed form for the three-state absorbing-chain distribution.
+
+## [2026-05-27] query | Origin of 0.8 and -0.2 in E2 closed form
+Explained that $0.8$ is the transient-block row sum and $-0.2$ is the difference multiplier for states 0 and 1.
+
+## [2026-05-27] query | Computing $X_{1000}$ in E2
+Explained how to compute the large-time distribution using absorption and the transient survival probability $0.8^{1000}$.
+
+## [2026-05-27] query | Computing $X_{500}$ in E2
+Explained that the same absorbing-chain formula applies with $n=500$, giving transient mass $0.8^{500}$ and absorption probability $1-0.8^{500}$.
+
+## [2026-05-27] query | Explain expected visits and absorption time in E2
+Explained points (b) and (c) using the transient block, fundamental matrix, expected visits, and row-sum mean absorption time.
+
+## [2026-05-28] query | One-server renewal attack and recovery cycle
+Solved E3 step by step using a renewal cycle for normal operation, cleanup, optional manual repair, no-traffic fraction, average traffic, and operator intervention rate.
+
+## [2026-05-28] query | Components of no-traffic fraction in E3
+Clarified how the no-traffic fraction is built as expected manual-repair time divided by expected renewal-cycle length.
+
+## [2026-05-28] query | Exhibition Poisson arrivals with uniform visit times
+Solved E4 step by step using Poisson arrival counts and the M/G/infinity active-population formula for visitors still in the room.
+
+## [2026-05-29] query | Two independent Poisson processes with equal rates
+Solved E1 conditional probabilities using Poisson independent increments, superposition, and binomial conditional distributions.
+
+## [2026-05-29] query | Explain part (a) of two Poisson processes exercise
+Clarified part (a) by decomposing intervals into independent Poisson cells and applying conditional binomial allocation.
+
+## [2026-05-29] query | Two Poisson processes using How To source
+Solved E1 again using the raw How To Stochastic Processes Poisson-conditioning templates for two independent Poisson processes.
+
+## [2026-05-29] query | Equivalent event in Poisson conditioning
+Explained why conditioning on $X_1(1)=1$ lets the target event be rewritten by subtracting the known count from the total.
+
+## [2026-05-29] query | Direct throughput for two-state Markov channel
+Computed no-protocol throughput as the stationary good-slot probability for a two-state good/bad channel.
+
+## [2026-05-29] query | E2 direct throughput and Markov-channel diagram
+Explained how to recover the two-state transition probabilities from the steady-state bad probability and average good-run length, then compute no-protocol throughput.
+
+## [2026-05-29] query | E2 GoBackN throughput with error-free feedback
+Computed GoBackN throughput for the same two-state Markov channel using the $m$-step bad-to-good probability and renewal-reward ratio.
+
+## [2026-05-29] query | E2 GoBackN throughput with iid feedback errors
+Computed GoBackN throughput for the two-state Markov channel with iid feedback error probability $\delta=0.1$ using the three-state semi-Markov formula.
+
+## [2026-05-30] query | Five-state reducible Markov chain
+Solved E3 by classifying closed recurrent classes, computing absorption probabilities, ordinary/subsequence and Cesaro matrix limits, recurrence times, and first-passage times to state 4.

@@ -157,3 +157,12 @@ Computed GoBackN throughput for the two-state Markov channel with iid feedback e
 
 ## [2026-05-30] query | Five-state reducible Markov chain
 Solved E3 by classifying closed recurrent classes, computing absorption probabilities, ordinary/subsequence and Cesaro matrix limits, recurrence times, and first-passage times to state 4.
+
+## [2026-05-31] query | E2 GoBackN Markov channel throughput
+Solved direct, error-free-feedback, and iid-feedback-error throughput for a two-state Markov channel with mean good run 100, mean bad run 100/49, and round-trip time 2.
+
+## [2026-05-31] query | E3 five-state reducible Markov chain
+Solved class decomposition, absorption probabilities, ordinary/subsequence and Cesaro limits, recurrence times, and first-passage times to state 4.
+
+## [2026-05-31] query | E4 two-server effective-attack availability
+Solved node downtime fraction, no-streaming period duration, uninterrupted streaming interval, and average streaming rate for two independent attacked servers.

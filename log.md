@@ -166,3 +166,105 @@ Solved class decomposition, absorption probabilities, ordinary/subsequence and C
 
 ## [2026-05-31] query | E4 two-server effective-attack availability
 Solved node downtime fraction, no-streaming period duration, uninterrupted streaming interval, and average streaming rate for two independent attacked servers.
+
+## [2026-06-01] query | E1 GoBackN Markov channel with bad fraction 0.1
+Solved direct, error-free-feedback, and iid-feedback-error throughput for a two-state Markov channel with mean good run 100, bad-slot fraction 0.1, and round-trip time 2.
+
+## [2026-06-01] query | E2 three-state absorbing Markov chain
+Explained transition diagram, finite-time distributions, expected visit counts, and mean absorption time for a three-state chain with state 2 absorbing.
+
+## [2026-06-01] query | Clarify X1000 distribution in absorbing chain
+Explained how to compute the large-time distribution from the transient block powers and why it is essentially concentrated on the absorbing state.
+
+## [2026-06-01] query | Stationary-system method for X1000 in absorbing chain
+Clarified when the stationary system can be used for large-time distributions and applied it to the three-state absorbing chain.
+
+## [2026-06-01] query | Point b expected visits via first-step systems
+Explained the first-step linear-system method for expected visit counts in the three-state absorbing chain, including why visits to the absorbing state diverge.
+
+## [2026-06-01] query | E3 two independent Poisson conditional probabilities
+Solved conditional probabilities for two independent Poisson processes using superposition, binomial splitting, and independent increments.
+
+## [2026-06-01] query | Poisson exponent parameter clarification
+Clarified that the exponent in the Poisson probability is the process mean $\lambda t$, here equal to $1$ for $X_2(1)$.
+
+## [2026-06-01] query | E3 nested Poisson count conditioning
+Solved conditional probabilities involving $X_2(1)$ and $X_2(2)$ by decomposing $X_2(2)$ into $X_2(1)$ plus an independent increment.
+
+## [2026-06-01] query | Joint probability of Poisson increment counts
+Explained why $P[A=1,B=1]$ factors into $P[A=1]P[B=1]$ and how each factor is computed from the Poisson pmf.
+
+## [2026-06-01] query | Joint probability A0 B3 for Poisson increments
+Explained the factorization and Poisson pmf calculation for $P[A=0,B=3]$ in the nested Poisson-count exercise.
+
+## [2026-06-03] query | E4 network node renewal-reward availability
+Solved renewal-cycle fractions, average handled traffic, and human-intervention rate for the attack/cleanup/manual-restore network node model.
+
+## [2026-06-03] query | E1 two equal-rate Poisson conditional probabilities
+Solved two conditional probabilities for independent Poisson processes with equal rates using binomial splitting and independence.
+
+## [2026-06-03] query | E1 Poisson conditioning over mixed intervals
+Solved conditional probabilities involving $X_1(1)$ and the combined two-process count over $[0,2]$ using multinomial splitting and independent increments.
+
+## [2026-06-03] query | Clarify mixed-interval Poisson conditional probability
+Explained the second mixed-interval conditional probability by separating the already-known count from independent future/process increments.
+
+## [2026-06-03] query | Further clarification of mixed-interval conditional Poisson probability
+Re-explained the conditional probability $P[X_1(2)+X_2(2)=4\mid X_1(1)=1]$ by splitting known and unknown Poisson increments.
+
+## [2026-06-03] query | E2 direct throughput Markov channel mean runs
+Computed no-protocol throughput for a two-state Markov channel from mean good and bad run lengths.
+
+## [2026-06-03] query | E2 GoBackN throughput with feedback variants
+Computed GoBackN throughput for the two-state Markov channel with error-free feedback and iid feedback errors with probability 0.1.
+
+## [2026-06-03] query | E3 five-state reducible Markov chain limits
+Classified recurrent and transient classes, computed absorption probabilities from the transient state, and derived subsequential and Cesaro limits for the five-state Markov chain.
+
+## [2026-06-04] query | E3 recurrence and first passage to state 4
+Computed average recurrence times for all states and mean first-passage times to state 4 in the five-state reducible Markov chain.
+
+## [2026-06-04] query | E4 two independent attacked streaming servers
+Solved downtime fraction, both-down duration, uninterrupted streaming interval, and average streaming rate for two independent servers under effective Poisson attacks.
+
+## [2026-06-06] query | E2 direct throughput from steady-state bad probability
+Computed no-protocol throughput for a two-state Markov channel from the given stationary bad-state probability.
+
+## [2026-06-06] query | E2 GoBackN throughput from steady-state bad probability
+Computed GoBackN throughput with error-free feedback and iid feedback errors for a two-state Markov channel with stationary bad probability 0.02 and mean good run 100.
+
+## [2026-06-06] query | E1 direct throughput from good and bad run lengths
+Computed no-protocol throughput for a two-state Markov channel with mean good run 100 and mean bad run 100/9.
+
+## [2026-06-06] query | E4 no-traffic fraction for attack cleanup node
+Computed the renewal-cycle fraction of time with no traffic for a single network node with attacks, cleanup, and manual restore.
+
+## [2026-06-06] query | E4 average traffic for attack cleanup node
+Computed the renewal-reward average handled traffic for the single network node under normal, cleanup, and manual-restore phases.
+
+## [2026-06-06] query | E4 two independent attacked servers full solution
+Solved two-server streaming availability: both-down fraction, no-streaming duration, uninterrupted streaming interval, and average total rate.
+
+## [2026-06-07] query | E3 five-state Markov chain full solution
+Solved classification, absorption probabilities, ordinary/subsequence and Cesaro limits, recurrence times, and first-passage times to state 4 for the five-state chain.
+
+## [2026-06-07] query | E3 five-state Markov chain 2021 template
+Solved the five-state reducible Markov-chain template with classes $\{0,3\}$, $\{1,4\}$, transient state 2, subsequential/Cesaro limits, recurrence times, and first-passage times to 4.
+
+## [2026-06-06] query | E4 no-traffic fraction renewal cycle
+Computed the no-traffic time fraction for the one-node attack, cleanup, and manual-restore renewal model.
+
+## [2026-06-07] ingest | Two Poisson Processes All
+Created a source page for the new raw exercise collection and a reusable exam formulario for two independent Poisson-process conditioning cases.
+
+## [2026-06-07] update | Two Poisson Processes factorial formulas
+Expanded the formulario formulas to show binomial, multinomial, and Poisson terms with explicit factorials.
+
+## [2026-06-07] update | Two Poisson Processes plug-in formulas
+Rewrote the formulario formulas so probability terms are substituted directly with rates and interval lengths.
+
+## [2026-06-07] update | Two Poisson Processes remove p placeholders
+Replaced the abstract binomial and multinomial placeholder probabilities with mean-ratio formulas.
+
+## [2026-06-07] update | Translate Two Poisson Processes formula sheet
+Translated the two independent Poisson-process formula sheet from Italian to English while preserving the plug-in formulas.

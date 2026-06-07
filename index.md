@@ -151,6 +151,7 @@
 - [[wiki/sources/lecture-notes-ch6|Chapter 6 - Analysis of the GoBackN Protocol]] - GoBackN semi-Markov reward and transform analysis.
 - [[wiki/sources/how-to-stochastic-processes|How To Stochastic Processes]] - practical exam-preparation source covering Markov-chain, Poisson, GoBackN, and renewal exercise templates.
 - [[wiki/sources/stochastic-exercises-guida-semplice|Stochastic Exercises - Guida Semplice]] - annotated AA 2024/2025 exam-method PDF covering GoBackN, renewal cycles, M/G/infinity counts, reducible Markov chains, absorption, and Poisson conditioning.
+- [[wiki/sources/two-poisson-processes-all|Two Poisson Processes All]] - exam prompt collection for conditional probabilities with two independent Poisson processes.
 
 ---
 
@@ -201,6 +202,7 @@
 - [[wiki/exercises/two-bulbs-half-lit-office|Two Bulbs and Half-Lit Office]] - half-lit time fraction by renewal cycles.
 - [[wiki/exercises/two-component-parallel-system|Two-Component Parallel System]] - reliability fractions and cycle durations by renewal theory.
 - [[wiki/exercises/two-independent-poisson-processes|Two Independent Poisson Processes]] - conditional probabilities for overlapping and combined Poisson counts.
+- [[wiki/exercises/two-poisson-processes-formulario|Formula Sheet - Two Poisson Processes]] - exam-ready taxonomy with fully substituted factorial formulas for two-process Poisson conditioning cases.
 - [[wiki/exercises/typographical-errors|Typographical Errors]] - Poisson approximation for errors over selected pages.
 - [[wiki/exercises/undersea-cable-defects|Undersea Cable Defects]] - independent increments for spatial Poisson defects.
 - [[wiki/exercises/urn-removal-mean-duration|Urn Removal Mean Duration]] - mean absorption time for red-ball removal game.

@@ -44,10 +44,11 @@ The proofs in the corresponding exam-preparation page are assembled from the exi
 
 ## Critique / Gaps
 
-Prompt 2 and prompt 10 ask for the same renewal identity, so the exam-preparation pages give two complementary proofs: a renewal-equation proof and a Wald stopping-time proof. The corrected v2 page keeps the same mathematical content while tightening notation, YAML metadata, and proof justifications.
+Prompt 2 and prompt 10 ask for the same renewal identity in the earlier exam-theorem list, so the exam-preparation pages give two complementary proofs: a renewal-equation proof and a Wald stopping-time proof. The `raw/Theorems.md` version preserves a numbering jump from 9 to 11; the beginner-enriched page keeps that numbering and expands every proof step without changing the source variable names unnecessarily.
 
 ## Wiki Pages Updated
 
 - [[exercises/exam-theorem-proofs]]
 - [[exercises/exam-theorem-proofs-v2]]
+- [[exercises/theorems-beginner-enriched]]
 - [[sources/exams-theorems]]

@@ -268,3 +268,12 @@ Replaced the abstract binomial and multinomial placeholder probabilities with me
 
 ## [2026-06-07] update | Translate Two Poisson Processes formula sheet
 Translated the two independent Poisson-process formula sheet from Italian to English while preserving the plug-in formulas.
+
+## [2026-06-10] query | Theorems Markdown/PDF formatting check
+Compared `raw/Theorems.md` against `raw/Theorems.pdf` and identified Markdown rendering issues plus transcription mismatches.
+
+## [2026-06-10] query | Wiki Theorems OCR/PDF comparison
+Checked `wiki/Theorems.md` as OCR output of `raw/Theorems.pdf`; found matching question coverage but non-identical mathematical content and Markdown formatting issues.
+
+## [2026-06-10] update | Beginner-enriched theorem proof sheet
+Created `wiki/exercises/theorems-beginner-enriched.md` from `raw/Theorems.md`, preserving source numbering and notation while expanding definitions, variables, and proof steps in English.

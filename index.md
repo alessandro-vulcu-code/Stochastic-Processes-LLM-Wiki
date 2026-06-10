@@ -163,6 +163,7 @@
 - [[wiki/exercises/circular-disk-poisson-limit|Circular Disk Poisson Limit]] - spatial binomial-to-Poisson limit for uniform points in a disk.
 - [[wiki/exercises/dispatching-system|Dispatching System]] - optimal fixed dispatch period balancing waiting and dispatch costs.
 - [[wiki/exercises/exam-frequency-analysis-2021-2024|Exam Frequency Analysis 2021-2024]] - recurring exercise and proof templates from the 2021-2024 exam files, with dates, frequencies, and full prompt texts.
+- [[wiki/exercises/theorems-beginner-enriched|Theorems - Beginner Enriched Version]] - expanded English proof sheet from `raw/Theorems.md`, preserving original numbering and notation while explaining each step.
 - [[wiki/exercises/excess-life-triangular-lifetime|Excess Life for a Triangular Lifetime]] - limiting excess-life tail and mean for triangular lifetimes.
 - [[wiki/exercises/excess-life-uniform-lifetimes|Excess Life for Uniform Lifetimes]] - limiting excess-life distribution for uniform renewal intervals.
 - [[wiki/exercises/failure-wald-like-identity|Failure of Wald-like Identity for S_N(t)]] - counterexample showing dependence between $N(t)$ and renewal intervals.
